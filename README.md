@@ -1,13 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1220731016916004864/1685118616/600x200)
 ### Hi there 👋, I am Shamim Hossain
-#### Front-end Developer
+#### Graduate in 
 
 I am a dedicated Front-end developer with 1+ years of experience in scalable web applications and internal tools. Very attentive to details, able to multitask and juggle multiple pressing projects simultaneously. On top of the latest trends and technologies. Ability to translate business requirements into technical solutions. I am looking for a position where my skills and innate abilities can be effectively utilized.
 
 Skills: c/c++/Javscript/React Js/Typescript/Tailwind CSS/CSS3/AWS/MognoDB/GIT(version control)/Rest API/React-Redux/SASS/React Native
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning ML,Python programming 
+- 🔭 I’m currently working on competitive programming.
+- 🌱 I’m currently learning ML, Python programming 
 - 📫 How to reach me: shamim.hossain@sec.ac.bd 
 
 
