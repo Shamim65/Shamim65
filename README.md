@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator]
 ### Hi there 👋, I am Shamim Hossain
 #### Graduate in 
 
