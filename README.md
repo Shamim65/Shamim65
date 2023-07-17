@@ -1,9 +1,27 @@
 ### Hi there 👋, I am Shamim Hossain
-#### Graduate in 
+#### Graduate in CSE(Computer Science and Engineering)
 
-I am a dedicated Front-end developer with 1+ years of experience in scalable web applications and internal tools. Very attentive to details, able to multitask and juggle multiple pressing projects simultaneously. On top of the latest trends and technologies. Ability to translate business requirements into technical solutions. I am looking for a position where my skills and innate abilities can be effectively utilized.
+👋 Hello, I'm [Your Name]!
 
-Skills: c/c++/Javscript/React Js/Typescript/Tailwind CSS/CSS3/AWS/MognoDB/GIT(version control)/Rest API/React-Redux/SASS/React Native
+🎓 I recently graduated with a BSc in Computer Science and Engineering, specializing in the field of Software Engineering. With a passion for problem-solving and technology, I have focused my efforts on honing my skills in Competitive Programming, Machine Learning, and Python programming.
+
+💻 In the realm of Competitive Programming, I thrive on the challenges presented by algorithmic problem-solving. Constantly seeking to sharpen my logical thinking and analytical abilities, I actively participate in coding competitions and online platforms to test my skills against fellow enthusiasts.
+
+🤖 My journey into Machine Learning has been a fascinating exploration of data-driven decision-making. I have acquired a strong foundation in ML algorithms, data preprocessing, and model evaluation techniques. Leveraging popular frameworks such as TensorFlow and scikit-learn, I strive to develop intelligent systems capable of analyzing complex datasets and extracting valuable insights.
+
+🐍 Python is my go-to language for crafting elegant and efficient solutions. Its versatility and extensive ecosystem of libraries have allowed me to tackle diverse programming challenges. I have hands-on experience in developing scalable applications, building APIs, and automating tasks using Python, making it an integral part of my coding arsenal.
+
+🔭 I'm eager to collaborate on projects that involve solving intricate problems, implementing ML models, or contributing to open-source initiatives. I believe in the power of teamwork and the impact that technology can have on society.
+
+📫 Feel free to connect with me on LinkedIn [Insert LinkedIn URL] to explore opportunities, discuss exciting projects, or engage in knowledge-sharing. I'm always open to connecting with fellow tech enthusiasts and exchanging ideas.
+
+🌱 Continuous learning is at the core of my professional journey, and I strive to stay updated with the latest advancements in the fields of ML, AI, and software engineering. I am currently exploring new avenues to expand my skill set and contribute meaningfully to the tech industry.
+
+🚀 Thank you for visiting my GitHub profile. Together, let's build innovative solutions and push the boundaries of technology!
+
+---
+
+Feel free to customize this introduction to reflect your own experiences, interests, and aspirations. Good luck with your coding endeavors and your GitHub profile!
 
 - 🔭 I’m currently working on competitive programming.
 - 🌱 I’m currently learning ML, Python programming 
