@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Shamim Hossain
 #### Graduate in CSE(Computer Science and Engineering)
 
-👋 Hello, I'm [Your Name]!
-
 🎓 I recently graduated with a BSc in Computer Science and Engineering, specializing in the field of Software Engineering. With a passion for problem-solving and technology, I have focused my efforts on honing my skills in Competitive Programming, Machine Learning, and Python programming.
 
 💻 In the realm of Competitive Programming, I thrive on the challenges presented by algorithmic problem-solving. Constantly seeking to sharpen my logical thinking and analytical abilities, I actively participate in coding competitions and online platforms to test my skills against fellow enthusiasts.
